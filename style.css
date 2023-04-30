@@ -1,0 +1,32 @@
+h1 {
+  background-color: green;
+  color: white;
+}
+table,
+tr,
+th {
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-collapse: collapse;
+}
+.purple {
+  background-color: purple;
+}
+tr {
+  background-color: rgb(24, 197, 255);
+}
+.red {
+  color: rgb(255, 72, 0);
+  background-color: lightblue;
+}
+
+video {
+  margin-top: 20px;
+}
+
+img {
+  position: relative;
+  top: 250px;
+  right: 305px;
+}
